@@ -19,3 +19,9 @@
     anish@ANISH:~$ date +%d:%m:%y
     28:09:25
 ```
+
+#how to display files in current location
+```bash
+    ls & ls -lt
+```
+
