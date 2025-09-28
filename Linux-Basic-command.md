@@ -1,7 +1,9 @@
-#How to check the present working directory 
- -pwd - present working directory
+# How to check the present working directory 
+ ```bash
+ pwd - present working directory
+```
 
-#How to check system date and time 
+# How to check system date and time 
 
 ```bash
     anish@ANISH:~$ date
